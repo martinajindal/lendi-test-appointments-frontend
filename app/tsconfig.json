@@ -11,5 +11,6 @@
     "target": "es2020",
     "types": ["node", "jest", "react", "react-dom"]
   },
+  "include": ["app/src/**/*"],
   "exclude": ["node_modules"]
 }
